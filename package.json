@@ -1,0 +1,11 @@
+{
+  "name": "jdbot",
+  "version": "0.1.5",
+  "description": "Bot for Just-Dice.com",
+  "main": "jdbot.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.55.0",
+    "socket.io-client": "1.7.0"
+  }
+}

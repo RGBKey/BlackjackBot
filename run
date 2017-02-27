@@ -1,2 +1,2 @@
-export JDBOT_HASH=c90abb2ea608d261b56ca3aaab2074936792cbbe923b48afc233d09ea7f6347b
+export JDBOT_HASH=LOGIN_HASH
 nodejs bjbot
